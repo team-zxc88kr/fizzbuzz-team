@@ -6,4 +6,4 @@ def do_fizzbuzz(num: int):
             print(i)
 
 if __name__ == '__main__':
-    do_fizzbuzz(16)
+    do_fizzbuzz(20)
